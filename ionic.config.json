@@ -1,0 +1,7 @@
+{
+  "name": "daily-moments",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
