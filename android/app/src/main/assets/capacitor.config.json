@@ -1,0 +1,13 @@
+{
+  "appId": "org.example.dailymoments",
+  "appName": "Daily Moments",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  },
+  "cordova": {}
+}
