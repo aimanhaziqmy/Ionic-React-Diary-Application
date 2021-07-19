@@ -1,5 +1,5 @@
 # An Ionic React project
-Ionic React
+Im learning Ionic React
 
 ## Links
 
