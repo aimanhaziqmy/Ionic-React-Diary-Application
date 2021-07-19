@@ -1,6 +1,5 @@
-# Daily Moments
-
-This example is part of the Ionic React course.
+# An Ionic React project
+Ionic React
 
 ## Links
 
