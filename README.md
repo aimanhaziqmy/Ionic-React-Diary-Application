@@ -1,5 +1,5 @@
 # An Ionic React project
-Experimenting and learning with Ionic React.
+Experimenting and learning with Ionic React with Firebase.
 
 ## Links
 
