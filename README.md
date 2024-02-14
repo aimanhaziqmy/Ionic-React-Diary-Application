@@ -1,7 +1,7 @@
 # An Ionic React project
 Experimenting and learning with Ionic React with Firebase.
 
-A diary application with native camera functionalities build with capacitor.js
+A diary application with native camera functionalities build with capacitor.js. Can be use as starter.
 
 
 ## Links Here
